@@ -1,0 +1,21 @@
+{
+  "name": "lab2-rna",
+  "version": "1.0.0",
+  "description": "CPAN-212 lab2",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "3.1.10"
+  },
+  "keywords": ["nodejs","express","promise","callback"],
+  "author": "Tyler Lee",
+  "license": "ISC",
+  "type": "commonjs"
+
+}
